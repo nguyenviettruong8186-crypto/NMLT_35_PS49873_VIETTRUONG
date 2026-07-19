@@ -7,7 +7,7 @@ int main() {
     float Ly;
     float Hoa;
     float ĐTB;
-    printf("Nhapmssv: ");
+    printf("Nhap ma so sv: ");
     scanf("%s", mssv);
     printf("Nhaphoten: ");
     scanf("%s", hoten);
